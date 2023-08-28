@@ -1,5 +1,5 @@
 {
-	"name": "joy-of-code",
+	"name": "DW-Blog",
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
